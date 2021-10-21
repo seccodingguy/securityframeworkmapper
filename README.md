@@ -5,6 +5,8 @@
 <p>This is a work-in-progress and will be expanded to include ISO, Cloud Security Matrix, and MITRE Att&ck Framework.</p>
 
 <div>
-<p>The application is written in C# using Visual Studio 2019</p>
+<p>The application is written in C# using Visual Studio 2019 built using the .NET Framework v4.7.</p>
 <p>MySQL is the database. A frameworks_backup.sql file is included that has all of the data for the frameworks that have been parsed and mapped to date.</p>
 </div>
+
+<div><p>Public use is granted under the MIT License</p></div>
