@@ -6,7 +6,11 @@
 
 <div>
 <p>The application is written in C# using Visual Studio 2019 built using the .NET Framework v4.7.</p>
-<p>MySQL is the database. A frameworks_backup.sql file is included that has all of the data for the frameworks that have been parsed and mapped to date.</p>
+<p>MySQL is the database with an expected schema of frameworks (if you change the schema, be sure to update the SQL statements in the backup file). A frameworks_backup.sql file is included that has all of the data for the frameworks that have been parsed and mapped to date.</p>
+</div>
+
+<div>
+  <p>The database connection settings are saved in the app.config file. A connection string already exists in the app.config with placeholders of what information requires updating. <b>NOTE</b>: I plan to provide an example C# application that will pull the connection string and authentication details for Hashicorp Vault. It is stongly encouraged to use a similar method to protect sensitive database connection information.</p>
 </div>
 
 <div><p>Public use is granted under the MIT License</p></div>
