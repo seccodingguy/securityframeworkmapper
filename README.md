@@ -16,13 +16,14 @@
 <div><p>Public use is granted under the MIT License</p></div>
 
 <div><p>Screenshots of the application.</p>
-  <p> 800.53 Rev 5 controls mapped to the selected NIST Cyber control.
-![image](https://user-images.githubusercontent.com/6737750/138197430-ddecf99a-05ff-43bd-a767-33159dbbbf5f.png)</p>
+  <p> 800.53 Rev 5 controls mapped to the selected NIST Cyber control.</p>
+![image](https://user-images.githubusercontent.com/6737750/138197430-ddecf99a-05ff-43bd-a767-33159dbbbf5f.png)
 
-    <p> DoD STIG controls mapped to the selected NIST Cyber control.
-![image](https://user-images.githubusercontent.com/6737750/138197064-38301c7b-7b7e-4280-82e5-fff8ab22fe05.png)</p>
+  <p> DoD STIG controls mapped to the selected NIST Cyber control.</p>
+![image](https://user-images.githubusercontent.com/6737750/138197064-38301c7b-7b7e-4280-82e5-fff8ab22fe05.png)
 
-    <p> Details of the selected STIG controls that include the CLI script to test the control.
-![image](https://user-images.githubusercontent.com/6737750/138197362-1749a3d0-3692-4321-8d45-71a192d56e1a.png)</p>
+  <p> Details of the selected STIG controls that include the CLI script to test the control.</p>
+![image](https://user-images.githubusercontent.com/6737750/138197362-1749a3d0-3692-4321-8d45-71a192d56e1a.png)
+  </div>
 
 
