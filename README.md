@@ -26,4 +26,6 @@
 ![image](https://user-images.githubusercontent.com/6737750/138197362-1749a3d0-3692-4321-8d45-71a192d56e1a.png)
   </div>
 
-
+<div>
+  <p>The code used to extract the data and map to the various security frameworks is located here: https://github.com/seccodingguy/securityframeworkmapperimporter</p>
+  <div>
